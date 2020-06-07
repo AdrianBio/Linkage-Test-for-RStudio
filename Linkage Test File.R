@@ -2,4 +2,4 @@ print("this file was created within RStudio")
 
 print("And now it lives in Guthub")
 
-print("My RStudio and GitHub are sucessfully linked")
+print("My RStudio and GitHub are successfully linked")
